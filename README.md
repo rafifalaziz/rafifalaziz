@@ -4,7 +4,7 @@
 **rafifalaziz/rafifalaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on IT Consultant Company
 - 🌱 I’m currently learning certain knowledge as long it keeps me curious 
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mrafifalaziz26@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
